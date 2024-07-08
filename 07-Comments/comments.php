@@ -1,16 +1,13 @@
 <?php
 
 // Single-line comment: This is a single-line comment
-$x = 5; // Single-line comment: Assigning value 5 to variable $x
-echo $x; // Single-line comment: Output the value of $x
 
 /*
    Multi-line comment:
    This is a multi-line comment.
    It can span multiple lines and is useful for longer explanations or commenting out blocks of code.
 */
-$y = 10; // Multi-line comment: Assigning value 10 to variable $y
-echo $y; // Multi-line comment: Output the value of $y
+
 
 /**
  * PHPDoc comment for function documentation.
