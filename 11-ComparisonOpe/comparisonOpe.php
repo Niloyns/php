@@ -53,3 +53,4 @@ $b = 10;
 var_dump($a <=> $b); // Output: int(1) ($a is greater than $b)
 
 ?>
+
